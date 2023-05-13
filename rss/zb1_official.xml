@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@zb1_official</id>
   <title>zb1_official TikTok</title>
-  <updated>2023-05-13T03:01:11+00:00</updated>
+  <updated>2023-05-13T14:01:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zb1_official</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zb1_official/video/7229265091563212034</id>
-    <title>Profile Photo _𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘  We are 𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 🌹 #ZEROBASEONE #ZB1  #제로베이스원 </title>
-    <updated>2023-05-04T10:00:49+00:00</updated>
-    <content>Profile Photo _𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘  We are 𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 🌹 #ZEROBASEONE #ZB1  #제로베이스원 </content>
-    <link href="https://tiktok.com/@zb1_official/video/7229265091563212034" rel="alternate"/>
-    <published>2023-05-04T10:00:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zb1_official/video/7229265593931762945</id>
     <title>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 Fit Check! ✔  #ZEROBASEONE #ZB1  #제로베이스원 #FitCheck </title>
@@ -51,5 +43,13 @@
     <content>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 at #KCONJAPAN2023 D-DAY 📅 𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘의 첫 번째 KCON에서 만나요 👋 #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </content>
     <link href="https://tiktok.com/@zb1_official/video/7232496711116066049" rel="alternate"/>
     <published>2023-05-13T03:01:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zb1_official/video/7232666776583081218</id>
+    <title>우리의 시선을 따라와 👀 #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </title>
+    <updated>2023-05-13T14:01:06+00:00</updated>
+    <content>우리의 시선을 따라와 👀 #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </content>
+    <link href="https://tiktok.com/@zb1_official/video/7232666776583081218" rel="alternate"/>
+    <published>2023-05-13T14:01:06+00:00</published>
   </entry>
 </feed>
