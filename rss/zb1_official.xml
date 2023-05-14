@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@zb1_official</id>
   <title>zb1_official TikTok</title>
-  <updated>2023-05-14T06:04:09+00:00</updated>
+  <updated>2023-05-14T11:57:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zb1_official</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zb1_official/video/7231894798259539201</id>
-    <title>성한빈틈 없는 리더!  #ZEROBASEONE #ZB1  #제로베이스원 #0_1 </title>
-    <updated>2023-05-11T12:05:26+00:00</updated>
-    <content>성한빈틈 없는 리더!  #ZEROBASEONE #ZB1  #제로베이스원 #0_1 </content>
-    <link href="https://tiktok.com/@zb1_official/video/7231894798259539201" rel="alternate"/>
-    <published>2023-05-11T12:05:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zb1_official/video/7231925483485564161</id>
     <title>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 at #KCONJAPAN2023 Can I Be Your Boy?  📌 5/13(Sat) 14:00 (KST)   MEET&amp;GREET  📌 5/14(Sun) 17:10 (KST)   RED CARPET  📌 5/14(Sun) 19:00 (KST)   SHOW  ✔Live Streaming  [Global]  KCON Official  http://youtube.com/kcon/join  [KOR] TVING 지니뮤직 STAYG  h</title>
@@ -51,5 +43,13 @@
     <content>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 귀여워서 미안해 🤗 #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </content>
     <link href="https://tiktok.com/@zb1_official/video/7232914939994836225" rel="alternate"/>
     <published>2023-05-14T06:04:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zb1_official/video/7233006014176562433</id>
+    <title>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 Spoiler Film : Youth in the Shade #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </title>
+    <updated>2023-05-14T11:57:32+00:00</updated>
+    <content>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 Spoiler Film : Youth in the Shade #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </content>
+    <link href="https://tiktok.com/@zb1_official/video/7233006014176562433" rel="alternate"/>
+    <published>2023-05-14T11:57:32+00:00</published>
   </entry>
 </feed>
