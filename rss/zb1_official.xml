@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@zb1_official</id>
   <title>zb1_official TikTok</title>
-  <updated>2023-05-14T11:57:32+00:00</updated>
+  <updated>2023-05-15T03:31:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zb1_official</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zb1_official/video/7231925483485564161</id>
-    <title>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 at #KCONJAPAN2023 Can I Be Your Boy?  📌 5/13(Sat) 14:00 (KST)   MEET&amp;GREET  📌 5/14(Sun) 17:10 (KST)   RED CARPET  📌 5/14(Sun) 19:00 (KST)   SHOW  ✔Live Streaming  [Global]  KCON Official  http://youtube.com/kcon/join  [KOR] TVING 지니뮤직 STAYG  h</title>
-    <updated>2023-05-11T14:04:31+00:00</updated>
-    <content>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 at #KCONJAPAN2023 Can I Be Your Boy?  📌 5/13(Sat) 14:00 (KST)   MEET&amp;GREET  📌 5/14(Sun) 17:10 (KST)   RED CARPET  📌 5/14(Sun) 19:00 (KST)   SHOW  ✔Live Streaming  [Global]  KCON Official  http://youtube.com/kcon/join  [KOR] TVING 지니뮤직 STAYG  https://www.stayg.tv/group/channel/detail/10011 #ZEROBASEONE #ZB1  #제로베이스원 #0_1 </content>
-    <link href="https://tiktok.com/@zb1_official/video/7231925483485564161" rel="alternate"/>
-    <published>2023-05-11T14:04:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zb1_official/video/7232496711116066049</id>
     <title>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 at #KCONJAPAN2023 D-DAY 📅 𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘의 첫 번째 KCON에서 만나요 👋 #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </title>
@@ -51,5 +43,13 @@
     <content>𝗭𝗘𝗥𝗢𝗕𝗔𝗦𝗘𝗢𝗡𝗘 Spoiler Film : Youth in the Shade #ZEROBASEONE #ZB1 #제로베이스원 #0_1 </content>
     <link href="https://tiktok.com/@zb1_official/video/7233006014176562433" rel="alternate"/>
     <published>2023-05-14T11:57:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zb1_official/video/7233246733159927041</id>
+    <title>𝓡𝓲𝓬𝓴𝔂 &amp; 𝗚𝗬𝗨 𝗩𝗜𝗡의 짙은 농도에 정신이 혼미해 😵‍💫 #ZEROBASEONE #ZB1 #RICKY #KIMGYUVIN #제로베이스원 #리키 #김규빈 #0_1 </title>
+    <updated>2023-05-15T03:31:41+00:00</updated>
+    <content>𝓡𝓲𝓬𝓴𝔂 &amp; 𝗚𝗬𝗨 𝗩𝗜𝗡의 짙은 농도에 정신이 혼미해 😵‍💫 #ZEROBASEONE #ZB1 #RICKY #KIMGYUVIN #제로베이스원 #리키 #김규빈 #0_1 </content>
+    <link href="https://tiktok.com/@zb1_official/video/7233246733159927041" rel="alternate"/>
+    <published>2023-05-15T03:31:41+00:00</published>
   </entry>
 </feed>
