@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@zb1_official</id>
   <title>zb1_official TikTok</title>
-  <updated>2023-05-24T10:31:50+00:00</updated>
+  <updated>2023-05-24T10:35:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zb1_official</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zb1_official/video/7233246733159927041</id>
-    <title>𝓡𝓲𝓬𝓴𝔂 &amp; 𝗚𝗬𝗨 𝗩𝗜𝗡의 짙은 농도에 정신이 혼미해 😵‍💫 #ZEROBASEONE #ZB1 #RICKY #KIMGYUVIN #제로베이스원 #리키 #김규빈 #0_1 </title>
-    <updated>2023-05-15T03:31:41+00:00</updated>
-    <content>𝓡𝓲𝓬𝓴𝔂 &amp; 𝗚𝗬𝗨 𝗩𝗜𝗡의 짙은 농도에 정신이 혼미해 😵‍💫 #ZEROBASEONE #ZB1 #RICKY #KIMGYUVIN #제로베이스원 #리키 #김규빈 #0_1 </content>
-    <link href="https://tiktok.com/@zb1_official/video/7233246733159927041" rel="alternate"/>
-    <published>2023-05-15T03:31:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zb1_official/video/7233348223291706626</id>
     <title>So call my name 📢 #ZEROBASEONE #ZB1 #ZHANGHAO #KIMTAERAE #PARKGUNWOOK #제로베이스원 #장하오 #김태래 #박건욱 #0_1 #Say_My_Name </title>
@@ -51,5 +43,13 @@
     <content>🤷‍♂ ☝☝ 제로베이스원! #ZEROBASEONE #ZB1 #KIMTAERAE #KIMGYUVIN #PARKGUNWOOK #제로베이스원 #김태래 #김규빈 #박건욱 #0_1 </content>
     <link href="https://tiktok.com/@zb1_official/video/7236694786567163138" rel="alternate"/>
     <published>2023-05-24T10:31:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zb1_official/video/7236695677793832194</id>
+    <title>누가누가 카메라 잘 찾나! 승자는? 📸 #ZEROBASEONE #ZB1 #KIMJIWOONG #HANYUJIN  #제로베이스원 #김지웅 #한유진 #0_1  </title>
+    <updated>2023-05-24T10:35:17+00:00</updated>
+    <content>누가누가 카메라 잘 찾나! 승자는? 📸 #ZEROBASEONE #ZB1 #KIMJIWOONG #HANYUJIN  #제로베이스원 #김지웅 #한유진 #0_1  </content>
+    <link href="https://tiktok.com/@zb1_official/video/7236695677793832194" rel="alternate"/>
+    <published>2023-05-24T10:35:17+00:00</published>
   </entry>
 </feed>
